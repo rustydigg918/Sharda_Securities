@@ -32,7 +32,7 @@
 
 ### 1.3 What is a strong password
 
->>  *(a) LEVEL 1: Novice- Less than 10 characters password*
+>>  *(a) LEVEL 1: Novice- Less than 10 characters long password*
 
 >>  *(b) LEVEL 2: Master- More than 14 characters with atleat a special character or a digits in it.*
 
