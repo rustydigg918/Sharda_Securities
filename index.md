@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+# Sharda_Saves
 
-You can use the [editor on GitHub](https://github.com/rustydigg918/Sharda_Securities/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 1. Precautions
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 1.1 How not to set your Password
 
-### Markdown
+>>  *(a) Never set your password as the name of any of you family members or loved ones.*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+>>  *(b) Never have a password of fewer than 10 characters.*
+    
+>>  *(c) Never use your phone numbers as your password*
 
-```markdown
-Syntax highlighted code block
+>> *(d) Never use any regular combination "1234567890" i.e 1234, 12345, 01234... as your password*
 
-# Header 1
-## Header 2
-### Header 3
+>> *(e) Never use birthday of yours or your loved ones as your password*
 
-- Bulleted
-- List
+>> *(f) Never use Cuss words as your password*
 
-1. Numbered
-2. List
+### 1.2 How to minimize the chances of getting compromised
 
-**Bold** and _Italic_ and `Code` text
+>>  *(a) Update your devices regularly(OS, Softwares, Firewall etc)*
 
-[Link](url) and ![Image](src)
-```
+>>  *(b) Consider switching-off the PC or disconnecting the WiFi when you’re not using it.*
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+>>  *(c) Enable second layers of authentication(also called two-factor authentication).*
 
-### Jekyll Themes
+>>  *(d) Don’t re-use the same password for all the different website logins.*
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rustydigg918/Sharda_Securities/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+>>  *(e) Don't connect your device to a public/unknown Network(WiFi, Bluetooth, Hotspot) but in case you have to, don't share personal data or make online transactions.*
 
-### Support or Contact
+>>  *(f) Be suspicious of any of the emails that you might receive from outside the organization & Never open attachments(unless you're really sure)*
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 1.3 What is a strong password
+
+- *(a) LEVEL 1: Novice- Less than 10 characters long password*
+
+- *(b) LEVEL 2: Master- More than 14 characters with atleat a special character or a digits in it.*
+
+- *(c) LEVEL 3: Grandmaster- Between 14 and 20 characters with the irregularly used words in our daily conversations.*
+
+- *(d) LEVEL 4: Zen- Between 16 to 22 characters contributed by four irregularly used words in our daily conversations(adding a special character between words is a plus).*
+
+
+
+
+## 2. Cure
+
+## 3. Awareness
+
+
+
