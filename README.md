@@ -32,13 +32,13 @@
 
 ### 1.3 What is a strong password
 
->>  *(a) LEVEL 1: Novice- Less than 10 characters long password*
+- *(a) LEVEL 1: Novice- Less than 10 characters long password*
 
->>  *(b) LEVEL 2: Master- More than 14 characters with atleat a special character or a digits in it.*
+- *(b) LEVEL 2: Master- More than 14 characters with atleat a special character or a digits in it.*
 
->>  *(c) LEVEL 3: Grandmaster- Between 14 and 20 characters with the irregularly used words in our daily conversations.*
+- *(c) LEVEL 3: Grandmaster- Between 14 and 20 characters with the irregularly used words in our daily conversations.*
 
->>  *(d) LEVEL 4: Zen- Between 16 to 22 characters contributed by four irregularly used words in our daily conversations(adding a special character between words is a plus).*
+- *(d) LEVEL 4: Zen- Between 16 to 22 characters contributed by four irregularly used words in our daily conversations(adding a special character between words is a plus).*
 
 
 
