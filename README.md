@@ -10,6 +10,8 @@
     
 >>  *(c) Never use your phone numbers as your password*
 
+>> *(d) Never use any regular combination "1234567890" i.e 1234, 12345, 01234...*
+
 
 ## 2. Cure
 
