@@ -10,7 +10,11 @@
     
 >>  *(c) Never use your phone numbers as your password*
 
->> *(d) Never use any regular combination "1234567890" i.e 1234, 12345, 01234...*
+>> *(d) Never use any regular combination "1234567890" i.e 1234, 12345, 01234... as your password*
+
+>> *(e) Never use birthday of yours or your loved ones as your password*
+
+>> *(f) Never use Cuss words as your password*
 
 
 ## 2. Cure
