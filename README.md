@@ -26,7 +26,7 @@
 
 >>  *(d) Don’t re-use the same password for all the different website logins.*
 
->>  *(e) Don't connect your device to a public/unknown Network(WiFi, Bluetooth, Hotspot)*
+>>  *(e) Don't connect your device to a public/unknown Network(WiFi, Bluetooth, Hotspot) but in case you have to, don't share personal data or make online transactions.*
 
 >>  *(f) Be suspicious of any of the emails that you might receive from outside the organization & Never open attachments(unless you're really sure)*
 
