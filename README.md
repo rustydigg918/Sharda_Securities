@@ -30,6 +30,18 @@
 
 >>  *(f) Be suspicious of any of the emails that you might receive from outside the organization & Never open attachments(unless you're really sure)*
 
+### 1.3 What is a strong password
+
+>>  *(a) LEVEL 1: Novice- Ten or more than ten characters(except your phone numbers,birthdays or your loved ones names)*
+
+>>  *(b) LEVEL 2: Master- More than 14 characters with atleat a special character or a digits in it.*
+
+>>  *(c) LEVEL 3: Grandmaster- Between 14 and 20 characters with usage of irregular words in our daily conversations.*
+
+>>  *(d) LEVEL 4: Zen- Between 16 to 22 characters with about four irregular words without any correlation between them in our daily conversations(adding a special character between words is a plus).*
+
+
+
 
 ## 2. Cure
 
