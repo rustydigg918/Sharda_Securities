@@ -42,7 +42,7 @@
 
 ### 1.4 How to remember your password
 
-- **in process...**
+- **in process.....**
 
 
 
