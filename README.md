@@ -16,6 +16,20 @@
 
 >> *(f) Never use Cuss words as your password*
 
+### 1.2 How to minimize the chances of getting compromised
+
+>>  *(a) Update your devices regularly(OS, Softwares, Firewall etc)*
+
+>>  *(b) Consider switching-off the PC or disconnecting the WiFi when you’re not using it.*
+
+>>  *(c) Enable second layers of authentication(also called two-factor authentication).*
+
+>>  *(d) Don’t re-use the same password for all the different website logins.*
+
+>>  *(e) Don't connect your device to a public/unknown Network(WiFi, Bluetooth, Hotspot)*
+
+>>  *(f) Be suspicious of any of the emails that you might receive from outside the organization & Never open attachments(unless you're really sure)*
+
 
 ## 2. Cure
 
