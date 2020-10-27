@@ -40,6 +40,10 @@
 
 - *(d) LEVEL 4: Zen- Between 16 to 22 characters contributed by four irregularly used words in our daily conversations(adding a special character between words is a plus).*
 
+### 1.4 How to remember your password
+
+- **in process...**
+
 
 
 
