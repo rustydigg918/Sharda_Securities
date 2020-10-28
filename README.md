@@ -44,6 +44,16 @@
 
 - **in process...........**
 
+### 1.5 How to use your browser securely
+
+- *(a) Avoid installing any browser extensions, consult IT team before doing so.*
+
+- *(b) Don't give your browsers the access to remember your username and password for you*
+
+- *(c) Develop the habit of cleaning your browser data at regular interval of time. by using `Ctrl+Shift+Delete`*
+
+
+
 
 
 
