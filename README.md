@@ -28,7 +28,7 @@
 
 - *(e) Don't connect your device to a public/unknown Network(WiFi, Bluetooth, Hotspot) but in case you have to, don't share personal data or make online transactions.*
 
-- *(f) Be suspicious of any of the emails that you might receive from outside the organization & Never open attachments(unless you're really sure)*
+- *(f) Be suspicious of any of the emails that you might receive from outside the organization & **NEVER** open attachments(unless you're really sure)*
 
 ### 1.3 What is a strong password
 
