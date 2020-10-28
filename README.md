@@ -1,6 +1,6 @@
 # Sharda_Saves
 
-## 1. Precautions
+## 1. `Precautions`
 
 ### 1.1 How not to set your Password
 
