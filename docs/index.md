@@ -1,6 +1,6 @@
 # Sharda_Saves
 
-## 1. Precautions
+## 1. `Precautions`
 
 ### 1.1 How not to set your Password
 
@@ -28,21 +28,31 @@
 
 - *(e) Don't connect your device to a public/unknown Network(WiFi, Bluetooth, Hotspot) but in case you have to, don't share personal data or make online transactions.*
 
-- *(f) Be suspicious of any of the emails that you might receive from outside the organization & Never open attachments(unless you're really sure)*
+- *(f) Be suspicious of any of the emails that you might receive from outside the organization & **NEVER** open attachments(unless you're really sure)*
 
 ### 1.3 What is a strong password
 
 - *(a) LEVEL 1: Novice- Less than 10 characters long password*
 
-- *(b) LEVEL 2: Master- More than 14 characters with atleat a special character or a digit in it.*
+- *(b) LEVEL 2: Master- More than 14 characters with atleat a special character or a digits in it.*
 
 - *(c) LEVEL 3: Grandmaster- Between 14 and 20 characters with the irregularly used words in our daily conversations.*
 
 - *(d) LEVEL 4: Zen- More than 22 characters contributed by four irregularly used words in our daily conversations(adding a special character between words is a plus).*
 
-### 1.4 How to remember your password?
+### 1.4 How to remember your password
 
-- **in process........**
+- **in process...........**
+
+### 1.5 How to use your browser securely
+
+- *(a) Avoid installing any browser extensions, consult IT team before doing so.*
+
+- *(b) Don't give your browsers the access to remember your username and password for you*
+
+- *(c) Develop the habit of cleaning your browser data at regular interval of time. by using `Ctrl+Shift+Delete`*
+
+
 
 
 
