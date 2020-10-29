@@ -34,7 +34,7 @@
 
 - *(a) LEVEL 1: Novice- Less than 10 characters long password*
 
-- *(b) LEVEL 2: Master- More than 14 characters with atleat a special character or a digits in it.*
+- *(b) LEVEL 2: Master- More than 14 characters with at least a special character or a digits in it.*
 
 - *(c) LEVEL 3: Grandmaster- Between 14 and 20 characters with the irregularly used words in our daily conversations.*
 
