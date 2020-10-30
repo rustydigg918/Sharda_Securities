@@ -60,6 +60,10 @@
 
 - *(e) Always update your browser whenever there's is an update.*
 
+### 1.6 How to choose Keywords for your password
+
+-  **in progress...**
+
 
 
 
@@ -76,6 +80,7 @@
 
 
 ## 3. `Awareness`
+
 
 
 

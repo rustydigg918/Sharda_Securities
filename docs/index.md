@@ -40,7 +40,7 @@
 
 - *(d) LEVEL 4: Zen- More than 22 characters contributed by four irregularly used words in our daily conversations(adding a special character between words is a plus).*
 
-### 1.4 How to remember your password
+### 1.4 How to remember your long password
 
 - *Step 1: Break Long Passwords into three parts:- Master(M), Unique(U), Number(N)*
 - *Step 2: Master- Constant throughout all websites; it would take two words(e.g `griffithCones`)*
