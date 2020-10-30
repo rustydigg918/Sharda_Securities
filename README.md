@@ -44,8 +44,8 @@
 
 - *Step 1: Break Long Passwords into three parts:- Master(M), Unique(U), Number(N)*
 - *Step 2: Master- Constant throughout all websites; it would take two words(e.g `griffithCones`)*
-- *Step 3: Unique- Only unique part for all the passwords(e.g rubikF!b for Facebook,gm!lrubik for Gmail etc)*
-- *Step 4: Number- Come up with a number based on a fixed formula decided by special character used in the Step 3.(e.g- `!` means addition for me, so my Gmail value would be `g+m+a+i+l =42`)*
+- *Step 3: Unique- Only unique part for all the passwords(e.g rubikF!b for Facebook, gm!lrubik for Gmail etc)*
+- *Step 4: Number- Come up with a number based on a fixed formula decided by special character used in the Step 3.(e.g- `!` means addition to me, so my Gmail value would be `g+m+a+i+l =42`)*
 - *Step 5: My Gmail password maybe "griffithConesgm!rubik42"(you may change the order of M,U,N)*
 
 ### 1.5 How to use your browser securely
