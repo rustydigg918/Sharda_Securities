@@ -40,9 +40,13 @@
 
 - *(d) LEVEL 4: Zen- More than 22 characters contributed by four irregularly used words in our daily conversations(adding a special character between words is a plus).*
 
-### 1.4 How to remember your password
+### 1.4 How to remember your long password
 
-- **in process...........**
+- *Step 1: Break Long Passwords into three parts:- Master(M), Unique(U), Website(W*
+- *Step 2: Master- Constant throughout all websites; it would take two words(e.g `griffithCones`)*
+- *Step 3: Unique- Only unique part for all the passwords(e.g rubikF!b for Facebook,gm!lrubik for Gmail etc)*
+- *Step 4: Website- Come up with a number based on a fixed formula decided by special character used in the Step 3.(e.g- `!` means addition for me, so my Gmail value would be `g+m+a+i+l =42`)*
+- *Step 5: My Gmail password maybe "griffithConesgm!rubik42"(you may change the order of M,U,W)*
 
 ### 1.5 How to use your browser securely
 
