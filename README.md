@@ -92,4 +92,12 @@
 - *(c) Select `Creative Commons licences` in the usage rights section and click `Advanced Search`*
 
 
+### 3.2 How to be saved from Phishing Mails?.
+- *(a) Step 1: Don’t click on any links, attachment that you were not expecting even if it sounds obvious( we’ll discuss it why in our Social-engineering section)*
+
+- *(b) Step 2. Confirm the sender's mail-id carefully before opening any file.*
+
+- *(c) Step 3. Ask the sender for the credibility of the file if you encounter anything fishy.* 
+
+
 
