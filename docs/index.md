@@ -109,3 +109,6 @@
 - *(b) If it’s already there, don’t repeat it,instead consider upvoting or liking the question; it would mean that you too have the same question to ask.*
 
 - *(c) Try not using social media lingo(FYI, BTW, FOMO etc.) and be precise while asking any question.* 
+
+### 3.4  How to be saved from online scammers?
+- *...* 

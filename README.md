@@ -110,3 +110,5 @@
 
 - *(c) Try not using social media lingo(FYI, BTW, FOMO etc.) and be precise while asking any question.* 
 
+### 3.4  How to be saved from online scammers?
+- *...* 
