@@ -78,6 +78,8 @@
 
 
 
+
+
 ## 3. `Awareness`
 
 ### 3.1 How to get royalty-free images for your presentation.
@@ -95,3 +97,9 @@
 - *(c) Step 3. Ask the sender for the credibility of the file if you encounter anything fishy.* 
 
 
+### 3.3  How to ask questions effectively in a community online?
+- *(a) First look at the questions asked in the Q&A section and check whether the questions that you have has already been asked or not?*
+
+- *(b) If it’s already there, don’t repeat it,instead consider upvoting or liking the question; it would mean that you too have the same question to ask.*
+
+- *(c) Try not using social media lingo(FYI, BTW, FOMO etc.) and be precise while asking any question.* 
