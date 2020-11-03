@@ -60,9 +60,13 @@
 
 - *(e) Always update your browser whenever there's is an update.*
 
-### 1.6 How to choose Keywords for your password
+### 1.6 How Not to choose Keywords for your password
 
--  **in progress...**
+-  *Never Consider your loved one's names, birthdays or any significant dates in your password.*
+
+-  *Never use any daily used words or your domain specific words in your password*
+
+-  *Never use your favorites(movies,location,actor etc.) in your password.*
 
 
 
