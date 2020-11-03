@@ -84,7 +84,7 @@
 
 ## 3. `Awareness`
 
-### 3.1 How to get royality free images for your presentation.
+### 3.1 How to get royalty-free images for your presentation.
 - *(a) Visit this google link: https://www.google.com/advanced_image_search?hl=en&fg=1&q=images&sa=X&ved=2ahUKEwjS7MPh2eXsAhVDfn0KHXFSDA8Qo_oBegQIARAK.*
 
 - *(b) Enter the image keyword that you want to search in `Find image with...` section.*
