@@ -81,6 +81,15 @@
 
 ## 2. `Cure`
 
+### 2.1 How to help shut down scammers
+- *(a) If you receive any phishing link which might look like- https://facebo0k.tinylink.com/marketplace/321234, https://amaz0n.in/reset-password among the many, these are scam mails*
+  
+- *(b) Go to this google's report phishing page: https://safebrowsing.google.com/safebrowsing/report_phish/?hl=en and enter the URL and click `submit report`*
+
+- *(c) You may go for google voice abuse report as well if there's any phone number provided by the scammer*
+
+- *(d) These steps would help google to take the site down or at least alert other users when they visit the link*
+
 
 
 
