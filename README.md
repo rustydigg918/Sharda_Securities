@@ -120,7 +120,10 @@
 - *(c) Try not using social media lingo(FYI, BTW, FOMO etc.) and be precise while asking any question.* 
 
 ### 3.4  How to be saved from online scammers?
-- *...* 
+- *(a) Don't trust the google search results(especially the ads that is shown at the top of every search results)* 
+- *(b) Don't trust the Customer care numbers provided by google at the top of its results(it might be an ad by a scammer)*
+- *(c) Most service providers(like swiggy, Yulu etc) these days have no customer care number, they provide services through their app itself.*
+- *(d) Never trust or approve any transaction requests made at your UPI without confirmation, it's irreversible.*
 
 
 ### 3.5  what is social-engineering?
