@@ -125,5 +125,7 @@
 - *(d) Never trust or approve any transaction requests made at your UPI without confirmation, it's irreversible.*
 
 
-### 3.5  what is social-engineering?
--  *...*
+### 3.5  what is social-engineering? 
+-  *(a) WHAT- It's the most impactfult strategy(nothing to do with programs or servers) used by hackers to decode/guess your password based on your social activity(social media, friend circle, domain of work, etc.).*
+-  *(b) WHO- Members/Partners who are active speakers at public platforms(Seminars/Webinars) are the potential targets of this threat.*
+-  *(c) HOW- Say partner A is the speaker at ICAI, and a hacker got to know this information, what he/she can do is just send an email with an attachment(keylogger, virus, etc.) designating him/her as an ICAI member, even the most aware one of us might fall for this ploy.*

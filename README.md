@@ -127,6 +127,6 @@
 
 
 ### 3.5  what is social-engineering? 
--  *(a) It's s strategy used by hackers to decode/guess your password based on your social activity(social media, friend circle, domain of work, etc.).*
--  *(b) Members/Partners who are active speakers at public platforms(Seminars/Webinars) are the potential targets of this threat.*
--  *(c) Let's say partner A is the speaker at ICAI, and on the basis of his research a hacker got to know this information, what he can do is send an email with an attachment(keylogger, virus, etc) designating himself as an ICAI member, so in this case even most aware one of us might fall for.*
+-  *(a) WHAT- It's the most impactfult strategy(nothing to do with programs or servers) used by hackers to decode/guess your password based on your social activity(social media, friend circle, domain of work, etc.).*
+-  *(b) WHO- Members/Partners who are active speakers at public platforms(Seminars/Webinars) are the potential targets of this threat.*
+-  *(c) HOW- Say partner A is the speaker at ICAI, and a hacker got to know this information, what he/she can do is just send an email with an attachment(keylogger, virus, etc.) designating him/her as an ICAI member, even the most aware one of us might fall for this ploy.*
