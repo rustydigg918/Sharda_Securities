@@ -88,7 +88,7 @@
 
 - *(c) You may go for google voice abuse report as well if there's any phone number provided by the scammer*
 
-### 2.1 Basics of safe online shopping
+### 2.2 Basics of safe online shopping
 - *(a) Never do it from a device that isn't your own.*
 - *(b) Make sure you're using safe network.*
 - *(c) Never Save your card details in an online account*
