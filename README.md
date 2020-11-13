@@ -90,6 +90,12 @@
 
 - *(d) These steps would help google to take the site down or at least alert other users when they visit the link*
 
+### 2.1 Basics of safe online shopping
+- *(a) Never do it from a device that isn't your own.*
+- *(b) Make sure you're using safe network.*
+- *(c) Never Save your card details in an online account*
+- *(d) Always verify your transactions on regular intervals to make sure there is not anything fishy going on.*
+
 
 
 
@@ -130,3 +136,4 @@
 -  *(a) ASK- Always ask questions when in doubt(even if you've to authenticate it from multiple sources).*
 -  *(b) Access- Never grant any additional privileges to a third party(client, colleague, etc.) without permission.*
 -  *(c) Analyze- Before answering any question to an irregular party, think of possible repercussions of your act(if in doubt, IT is always there to help you).*
+
