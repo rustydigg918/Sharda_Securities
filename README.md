@@ -96,6 +96,14 @@
 - *(c) Never Save your card details in an online account*
 - *(d) Always verify your transactions on regular intervals to make sure there is not anything fishy going on.*
 
+### 2.3 Why doesn't GJ Lap allow you to process your USB port?
+- *(a) It's very easy to put a compiled virus into an USB(Pen drive,Hard disk etc.) and take down your entire system's data in matter of seconds*
+- *(b) Taking images shot of your entire system file tree is also possible and that too in the matter of a few minutes.*
+- *(c) So, deeply thank this IT policy for the greater good, so that it doesn't hurt you even if you mistakenly plug it in*
+
+
+
+
 
 
 
