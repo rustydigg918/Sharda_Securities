@@ -102,6 +102,15 @@
 - *(c) So, deeply thank this IT policy for the greater good, so that it doesn't hurt you even if you mistakenly plug it in.*
 
 
+### 2.4 Auditing your digital footprint
+- *Step 1: Make a list of all your digital accounts(Facebook, Twitter, Reddit etc)*
+- *Step 2: Set strong password for all of them(1.3 might help in this).*
+- *(c)Step 3: Delete the accounts you haven't used in the past six months.*
+
+### 2.5 Auditing your digital footprint
+- *Step 1: Make a list of all your digital accounts(Facebook, Twitter, Reddit etc)*
+- *Step 2: Set strong password for all of them(1.3 might help in this).*
+- *(c)Step 3: Delete the accounts you haven't used in the past six months.*
 
 ## 3. `Awareness`
 
@@ -138,3 +147,13 @@
 -  *(a) WHAT- It's the most impactfult strategy(nothing to do with programs or servers) used by hackers to decode/guess your password based on your social activity(social media, friend circle, domain of work, etc.).*
 -  *(b) WHO- Members/Partners who are active speakers at public platforms(Seminars/Webinars) are the potential targets of this threat.*
 -  *(c) HOW- Say partner A is the speaker at ICAI, and a hacker got to know this information, what he/she can do is just send an email with an attachment(keylogger, virus, etc.) designating him/her as an ICAI member, even the most aware one of us might fall for this ploy.*
+
+### 3.6  How to be saved from Social Engineering? 
+-  *(a) ASK- Always ask questions when in doubt(even if you've to authenticate it from multiple sources).*
+-  *(b) Access- Never grant any additional privileges to a third party(client, colleague, etc.) without permission.*
+-  *(c) Analyze- Before answering any question to an irregular party, think of possible repercussions of your act(if in doubt, IT is always there to help you).*
+
+### 3.7  How to be saved from Ransomwares? 
+-  *(a) Do frequent data backups in multiple locations.*
+-  *(b) Don't keep vital information only on your computer.*
+-  *(c) Never access .zip attachments in your inbox from an unknown sender.*
