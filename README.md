@@ -111,6 +111,10 @@
 - *Secondly, there are plenty of attacks that happen without user action(clicking or downloading data etc.) - it's called drive-by attacks.*
 - *Third, even if you're a cyber security expert, there are still plenty of vulnerabilities that can be exploited to get you.*
 
+### 2.6 Even the legit and most trusted websites can be compromised, how to minimize the risk even then.
+- *Yes, you read it right(we'll discuss the 'how' in the later section). but your password can't be received by hackers in the plain text format(it's encrypted).*
+- *Which means the hackers have to put in an efforts to decrypt your password(stronger the password harder it is to crack)*
+- *Did you know that the recent Big Basket data breach, which later was put on the dark web by hackers; out of which, about 22.5% of the passwords were decrypted within 5 hours*
 
 
 
