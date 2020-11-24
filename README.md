@@ -170,3 +170,8 @@
 -  *(a) Do frequent data backups in multiple locations.*
 -  *(b) Don't keep vital information only on your computer.*
 -  *(c) Never access .zip attachments in your inbox from an unknown sender.*
+
+### 3.8  How can you tell if a website can securely handle your data? 
+-  *(a) Check if a website link starts with `https` and **NOT** `http`.*
+-  *(b) `S` is key here as a website starting with `https` encrypts the data you put in the website and data you get from it.*
+-  *(c) If a website doesn't start with `https`, **DON'T** give them confidential info(card details, Aadhaar/PAN, address etc.).*
