@@ -107,7 +107,7 @@
 - *Step 2: Set strong password for all of them(1.3 might help in this).*
 - *(c)Step 3: Delete the accounts you haven't used in the past six months.*
 
-### 2.5(Revised) Ah! I am too good to be hacked, you aren't.
+### 2.5(Revised) How to minimize the ever-present cyber-risk?
 - *Even the legit and most trusted websites can be compromised, some basic cyber etiquette might help minimize the risk by not adding confidential details(e.g.Bank account details, PAN cards), avoiding random quizzes(chances of social engineering),controlling the urge to connect all you social media accounts.*
 - *There are plenty of attacks that happen without user action(clicking or downloading data etc.) - it's called drive-by attacks; Updating your software/browser plugins consistently, by stop using privileged account(e.g. use Guru & Jana mail id only for the work purposes.),Disable Java, JavaScript(put trusted websites that requires it on white list) etc.*
 - *Even if you're a cyber security expert, there are still plenty of vulnerabilities that can be exploited to get you, so always question anything irregular and at the same time, introspect whether the way you're approaching the web is secure?*
