@@ -168,3 +168,8 @@
 -  *(a) Check if a website link starts with `https` and **NOT** `http`.*
 -  *(b) `S` is key here as a website starting with `https` encrypts the data you put in the website and data you get from it.*
 -  *(c) If a website doesn't start with `https`, **DON'T** give them confidential info(card details, Aadhaar/PAN, address etc.).*
+
+### 3.9  How to boost your email security beyond passwords? 
+-  *(a) Check your recent activity(if you see it being accessed at some odd time, immediately inform the IT team).*
+-  *(b) Your account involvement(e.g. Avoid syncing your Guru & Jana mail to different websites, especially your browser add-ons/extensions).*
+-  *(c) Consider Enabling the 2-step verification or use the Authenticator app to login(as recommended by IT team).*
