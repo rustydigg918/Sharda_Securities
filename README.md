@@ -117,6 +117,17 @@
 - *Did you know that the recent Big Basket data breach, which later was put on the dark web by hackers; out of which, about 22.5% of the passwords were decrypted within 5 hours*
 
 
+### 2.7 Cookies- What is it after all?
+
+- *A Cookie is stored at your local system: your browser sends a request to the server, but the server sends back two things: the page you asked for and a little text file(called a cookie) that your browser then saves.*
+- *After it is saved, every time that browser makes a request to that same server,it sends the cookie along with it.*
+- *So, the cookie could contain your preferences(say you choose dark mode), browser would now send a "dark mode" preference in the cookie, every single request until the cookie is cleared from the browser even if you restart your system.*
+- *A cookie could be used for authentication: After you've logged into a site, that site sends your browser a cookie, that's a long random string of characters, but no-one except the server and that cookie have that long string of characters, it can act like a password: browser sends it back along with every page request, and that's why you don't need to provide your user credential every time you go to the next page of a website.*
+- *Despite strict rules(i.e only the site that set the cookie can read it back), because the way the web is built, sites can include material from other server(pulling image from other server, some scripting code, even an entire website, included in the frame) and all those other servers could set and read their own cookies( called third part cookies).*
+- *So when web pages included advertising, those adverts came from the advertising company's servers, so these advertisers could set a cookie that tracked people across the entire web.*
+- *If the same company partnered with a loads of websites, they could start building up some very detailed profiles, although they might not know who you are at first, but based on your activity(your visit to the home town website, then your college website, that website about a very specific medical condition then you bought something from an online store, so they can work behind the scenes, combine the details from that shop and their cookies and add your name and address to your profile.*
+- *All those fancy share with Facebook,Twitter buttons could report back to them where you're going and also tailor adverts based on your site recent activity online. which is why you could be on a site that seems to be completely disconnected from these social media platforms and still see adverts that were uncannily linked to the things that you have been thinking about.*
+- *Cambridge Analytica has proved the doubts of the regulators that advertising companies are having enormous databases on basically everything that people might be thinking might be a bit of a privacy problem. EU's 'cookie law' was the result of it.*
 
 
 
