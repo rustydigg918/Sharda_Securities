@@ -135,6 +135,14 @@
 
 - *Most of the websites ask for the consent to use your cookie, Never give them the permission to use it.*
 
+### 2.9 Why should you use the "reader mode" in your browser?
+
+- *Interruption: It doesn't contain those irritating adverts imposed on the page, you won't be forced to provide your e-mail for the newsletter amidst reading a  blog at a website.*
+
+- *Security: Websites can't force your browser to mine cryptocurrency for them in the background until your presence at their site*
+
+- *Ease: you may as well turn the page to an audiobook.*
+
 
 
 ### Rough Works for Cookies
