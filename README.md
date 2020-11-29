@@ -130,6 +130,43 @@
 - *Cambridge Analytica has proved the doubts of the regulators(that advertising companies are having enormous databases) right on basically everything that people might be thinking, which might be a bit of a privacy problem. EU's 'cookie law' was the result of it.*
 
 
+```
+Rough Works
+- *A Cookie is stored at your local system: your browser sends a request to the server, but the server sends back two things: the page you asked for and a little text file(called a cookie) that your browser then saves.*
+- *After it is saved, every time that browser makes a request to that same server,it sends the cookie along with it.*
+- *So, the cookie could contain your preferences(say you choose dark mode), browser would now send a "dark mode" preference in the cookie, every single request until the cookie is cleared from the browser even if you restart your system.*
+- *A cookie could be used for authentication: After you've logged into a site, that site sends your browser a cookie, that's a long random string of characters, but no-one except the server and that cookie have that long string of characters, it can act like a password: browser sends it back along with every page request, and that's why you don't need to provide your user credential every time you go to the next page of a website.*
+- *Despite strict rules(i.e only the site that set the cookie can read it back), because the way the web is built, sites can include material from other server(pulling image from other server, some scripting code, even an entire website, included in the frame) and all those other servers could set and read their own cookies( called third part cookies).*
+- *So when web pages included advertising, those adverts came from the advertising company's servers, so these advertisers could set a cookie that tracked people across the entire web.*
+- *If the same company partnered with a loads of websites, they could start building up some very detailed profiles, although they might not know who you are at first, but based on your activity(your visit to the home town website, then your college website, that website about a very specific medical condition then you bought something from an online store, so they can work behind the scenes, combine the details from that shop and their cookies and add your name and address to your profile.*
+- *All those fancy share with Facebook,Twitter buttons could report back to them where you're going and also tailor adverts based on your site recent activity online. which is why you could be on a site that seems to be completely disconnected from these social media platforms and still see adverts that were uncannily linked to the things that you have been thinking about.*
+- *Cambridge Analytica has proved the doubts of the regulators(that advertising companies are having enormous databases) right on basically everything that people might be thinking, which might be a bit of a privacy problem. EU's 'cookie law' was the result of it.*
+
+Consent to place cookies: why it is not helpful? how ad agencies are countering it?
+
+1. Isn't a well particularly well thought-out, because "consent" requires clicking ok, and if there is a confusing box in between the average person and the article they want to read, nearly everyone is going to click ok.
+
+2. So by this point, browser makers(like Firefox) were starting to give users options to block third-party cookies anyways, so advertisers were adjusting, they were tracking people not through cookies but through "fingerprinting": looking at all the apparently innocent indivisual quirks of how that exact computer was set up and how it rendered a webpage.e.g- The fonts you had installed , the size of your moniter, the website you've visited in the past; all things that indivisually appear innocent and safe but which together uniquely identify each person.
+
+3. Due to which browser makers and advertisers ended up in an odd war with each other about privacy: occasionally a civil war, given that one of the most popular browsers(Google Chrome) and also one of the major advertiser(Google Search Engine) were under the same corporate umbrella.
+
+4. So, later the General Data Protection Regulation(GDPR) in EU put even stronger requirement in place , atleast for EU citizens.Which resulted in Not just "no cookies without consent": no tracking without consent. At all times, the user must have full knowledge what they are signing up for, and must consent to it even if the compant is not in the EU. Even if the company is not in the EU. Even if they're storing dataon EU citizens "outside", it still applies to them. 
+
+5. The potential minimum fine is 4% of company's global annual revnue(not profit) or 20 million euro whichever is higher. upto this point some of you might be thinking that, EU can't fine some of the american companies, for sure they can't but they can easily stop them to do business in the EU if they don't pay.
+
+6. So all the advertisers had two options(unless they manage to find some other loophole)
+
+(a) Stop tracking people 
+(b) Add a big box on each page saying "hey is it okay we track you?" and legally you should be able to click "NO" and still access the site. Opting out should be a simple, one-click process, and any one of you who have been web lately knows it's often not true.
+
+7. So yes, atleast some of those popups and frustrations are because of advertisers, certainly they normalized the idea of intrusive popup boxes. 
+
+8 ...but why can they put those boxes there in the first place?
+
+The web is built around the freedom of design . it's one of the most fundamental principles: within the box that the web browser gives you, a designer can put almost anything. For decade after decade after decades, programmers have pushed the limits of what's possible: someone even managed to emulate an entire Windows 95 computer in the web browser(not the webpage that looks like Windows 95, but the entire virtual machine that thinks it's running on regular computer hardware, but it's actually just simulated in code, in a browser.) and that's incredible, give people the power to create and some will make amazing things, but some would look at the ability to run almost any codeand put almost anything on the screen, atleast within that box and go, ...maybe i can get more newsletters signups if i interrupt the reader or maybe i can make people's browsersmine cryptocurrency in the background while they're on my site, so the war starts again, that's why most web browsers now have a seperate view that you can switch into, that shows just the text you want. It might be called "article view" or "reader mode". The browser tries to figure out what the main content is, what the user actually wants to see, and puts just that text on screen, stripping out the adverts, removing all the popup boxes and yes losing all the creativity and design that the web allows. But that reader view is a lot closer to what the internet really means: a place for information and a way to find it afterwards. Ofcourse there are already techniques to detect and defeat reader view, and make sure the reader has to see the adverts, or the newsletter popups, or whatever else there is...
+
+
+```
 
 
 
