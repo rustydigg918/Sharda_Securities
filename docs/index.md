@@ -69,6 +69,16 @@
 
 -  *Never use your favorites(movies,location,actor etc.) in your password.*
 
+### 1.7 WhatsApp: Three critical settings that you must change right now.
+
+-  *Malicious WhatsApp hacks are making news again, with more users tricked into surrendering their accounts to attackers which initiates the chain reaction. The following changes helps in countering the threats*
+
+-  *1. Enable Two-step verification:(Settings>Account>Two-step verification) by clicking Enable; where you'll be asked for a 6-digits PIN followed by backup e-mail(in case you forget the PIN). NEVER SHARE THIS PIN.*
+
+-  *2. Multimedia: Files sent to you are saved to the album on your phone by default which isn't safe as an unknown user might send a hiding malicious code which might run a malware or put down your entire phone(while media files viewed within WhatsApp is safe). `Turn-off the auto-save` IPhone: Settings>Chats>Save to Camera Roll(turn-off); Android: Settings>Chats>Media Visibility(turn-off)*
+
+-  *3. Protecting Privacy: Managing last seen, adding to groups etc., Common convention is change everything(Last Seen, Profile photo,About,Groups,Status etc) to My contacts. Path: Settings>Privacy>_(here you need to make changes)*
+
 
 
 
