@@ -2,7 +2,7 @@
 
 ## 1. `Precautions`
 
-### 1.1 How not to set your Password
+### 1.1 How not to set your Password ![pub](published.png) 
 
 - *(a) Never set your password as the name of any of you family members or loved ones.*
 
