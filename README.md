@@ -81,6 +81,13 @@ iPhone: Settings>Chats>Save to Camera Roll(turn-off),  Android: Settings>Chats>M
 -  *3. Protecting Privacy: Managing last seen, adding to groups etc., Common convention is change everything(Last Seen, Profile photo,About,Groups,Status etc) to My contacts. Path: Settings>Privacy>_(here you need to make changes)*
 
 
+### 1.8 Things Android users have to look at.
+
+-  *Never keep any app in your phone that you don't generally use(you may download it whenever needed) as some big names at Android platforms have not updated the libraries used within their own software(as per Forbes) which invite major threats.*
+
+-  *Always check the last updated date of the app at play store before installing and customize it whenever you install them(e.g. Enabling 2-FA, Turn-off auto save multimedia files, hide e-mail/mobile numbers, etc.)*
+
+-  *Never download an image/video from social media unless you're sure of the source.*
 
 
 
