@@ -61,7 +61,7 @@
 
 - *(e) Always update your browser whenever there's is an update.*
 
-###![published](published.png) 1.6 How Not to choose Keywords for your password
+### 1.6 How Not to choose Keywords for your password
 
 -  *Never Consider your loved one's names, birthdays or any significant dates in your password.*
 
