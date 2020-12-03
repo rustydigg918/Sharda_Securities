@@ -69,7 +69,7 @@
 -  *Never use your favorites(movies,location,actor etc.) in your password.*
 
 
-### 1.7 WhatsApp: Three critical settings that you must change right now.
+### ![published](published.png)1.7 WhatsApp: Three critical settings that you must change right now.
 
 -  *Malicious WhatsApp hacks are tricking more users to surrender their accounts to attackers which initiates the chain reaction. The following changes help in countering the threat.*
 
