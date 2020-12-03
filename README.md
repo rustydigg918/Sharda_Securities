@@ -2,7 +2,7 @@
 
 ## 1. `Precautions`
 
-### 1.1 How not to set your Password ![pub](published.png) 
+![published](published.png) ### 1.1 How not to set your Password 
 
 - *(a) Never set your password as the name of any of you family members or loved ones.*
 
@@ -16,7 +16,7 @@
 
 - *(f) Never use Cuss words as your password*
 
-### 1.2 How to minimize the chances of getting compromised
+![published](published.png) ### 1.2 How to minimize the chances of getting compromised
 
 - *(a) Update your devices regularly(OS, Softwares, Firewall etc)*
 
@@ -30,7 +30,7 @@
 
 - *(f) Be suspicious of any of the emails that you might receive from outside the organization & **NEVER** open attachments(unless you're really sure)*
 
-### 1.3 What is a strong password
+![published](published.png) ### 1.3 What is a strong password
 
 - *(a) LEVEL 1: Novice- Less than 10 characters long password*
 
@@ -40,7 +40,7 @@
 
 - *(d) LEVEL 4: Zen- More than 22 characters contributed by four irregularly used words in our daily conversations(adding a special character between words is a plus).*
 
-### 1.4 How to remember your long password(Part-1)
+![published](published.png) ### 1.4 How to remember your long password(Part-1)
 
 - *Step 1: Break Long Passwords into three parts:- Master(M), Unique(U), Number(N)*
 - *Step 2: Master- Constant throughout all websites; it would take two words(e.g `griffithCones`)*
@@ -48,7 +48,7 @@
 - *Step 4: Number- Come up with a number based on a fixed formula decided by special character used in the Step 3.(e.g- `!` means addition to me, so my Gmail value would be `g+m+a+i+l =42`)*
 - *Step 5: My Gmail password maybe "griffithConesgm!rubik42"(you may change the order of M,U,N)*
 
-### 1.5 How to use your browser securely
+![published](published.png) ### 1.5 How to use your browser securely
 
 - *(a) Avoid installing any browser extensions(consult IT team if you must).*
 
@@ -60,7 +60,7 @@
 
 - *(e) Always update your browser whenever there's is an update.*
 
-### 1.6 How Not to choose Keywords for your password
+![published](published.png) ### 1.6 How Not to choose Keywords for your password
 
 -  *Never Consider your loved one's names, birthdays or any significant dates in your password.*
 
@@ -89,7 +89,7 @@
 
 ## 2. `Cure`
 
-### 2.1 How to help shut down scammers
+![published](published.png) ### 2.1 How to help shut down scammers
 - *(a) If you receive any phishing link which might look like- https://facebo0k.tinylink.com/marketplace/321234, https://amaz0n.in/reset-password among the many, these are scam mails*
   
 - *(b) Go to this google's report phishing page: https://safebrowsing.google.com/safebrowsing/report_phish/?hl=en and enter the URL and click `submit report`*
@@ -98,28 +98,28 @@
 
 - *(d) These steps would help google to take the site down or at least alert other users when they visit the link*
 
-### 2.2 Basics of safe online shopping
+![published](published.png) ### 2.2 Basics of safe online shopping
 - *(a) Never do it from a device that isn't your own.*
 - *(b) Make sure you're using safe network.*
 - *(c) Never Save your card details in an online account*
 - *(d) Always verify your transactions on regular intervals to make sure there is not anything fishy going on.*
 
-### 2.3 Why doesn't GJ Lap allow you to process your USB port?
+![published](published.png) ### 2.3 Why doesn't GJ Lap allow you to process your USB port?
 - *(a) It's very easy to put a compiled virus into a USB(Pen drive, Hard disk, etc.) and take down your entire system's data in a matter of seconds*
 - *(b) Taking images shot of your entire system file tree is also possible and that too in the matter of a few minutes.*
 - *(c) So, deeply thank this IT policy for the greater good, so that it doesn't hurt you even if you mistakenly plug it in.*
 
-### 2.4 Auditing your digital footprint
+![published](published.png) ### 2.4 Auditing your digital footprint
 - *Step 1: Make a list of all your digital accounts(Facebook, Twitter, Reddit etc)*
 - *Step 2: Set strong password for all of them(1.3 might help in this).*
 - *(c)Step 3: Delete the accounts you haven't used in the past six months.*
 
-### 2.5(Revised) How to minimize the ever-present cyber-risk?
+![published](published.png) ### 2.5(Revised) How to minimize the ever-present cyber-risk?
 - *Even the legit and most trusted websites can be compromised, some basic cyber etiquette might help minimize the risk by not adding confidential details(e.g.Bank account details, PAN cards), avoiding random quizzes(chances of social engineering),controlling the urge to connect all you social media accounts.*
 - *There are plenty of attacks that happen without user action(clicking or downloading data etc.) - it's called drive-by attacks; Updating your software/browser plugins consistently, by stop using privileged account(e.g. use Guru & Jana mail id only for the work purposes.),Disable Java, JavaScript(put trusted websites that requires it on white list) etc.*
 - *Even if you're a cyber security expert, there are still plenty of vulnerabilities that can be exploited to get you, so always question anything irregular and at the same time, introspect whether the way you're approaching the web is secure?*
 
-### 2.6 Even the legit and most trusted websites can be compromised, how to minimize the risk even then.
+![published](published.png) ### 2.6 Even the legit and most trusted websites can be compromised, how to minimize the risk even then.
 - *Yes, you read it right(we'll discuss the 'how' in the later section). but your password can't be received by hackers in the plain text format(it's encrypted).*
 - *Which means the hackers have to put in an efforts to decrypt your password(stronger the password harder it is to crack)*
 - *Did you know that the recent Big Basket data breach, which later was put on the dark web by hackers; out of which, about 22.5% of the passwords were decrypted within 5 hours*
@@ -198,7 +198,7 @@ The web is built around the freedom of design . it's one of the most fundamental
 
 ## 3. `Awareness`
 
-### 3.1 How to get royalty-free images for your presentation.
+![published](published.png) ### 3.1 How to get royalty-free images for your presentation.
 - *(a) Visit this google link: https://www.google.com/advanced_image_search?hl=en&fg=1&q=images&sa=X&ved=2ahUKEwjS7MPh2eXsAhVDfn0KHXFSDA8Qo_oBegQIARAK.*
 
 - *(b) Enter the image keyword that you want to search in `Find image with...` section.*
@@ -206,49 +206,49 @@ The web is built around the freedom of design . it's one of the most fundamental
 - *(c) Select `Creative Commons licences` in the usage rights section and click `Advanced Search`*
 
 
-### 3.2 How to be saved from Phishing Mails?.
+![published](published.png) ### 3.2 How to be saved from Phishing Mails?.
 - *(a) Step 1: Don’t click on any links, attachment that you were not expecting even if it sounds obvious( we’ll discuss it why in our Social-engineering section)*
 
 - *(b) Step 2. Confirm the sender's mail-id carefully before opening any file.*
 
 - *(c) Step 3. Ask the sender for the credibility of the file if you encounter anything fishy.* 
 
-### 3.3  How to ask questions effectively in a community online?
+![published](published.png) ### 3.3  How to ask questions effectively in a community online?
 - *(a) First look at the questions asked in the Q&A section and check whether the questions that you have has already been asked or not?*
 
 - *(b) If it’s already there, don’t repeat it,instead consider upvoting or liking the question; it would mean that you too have the same question to ask.*
 
 - *(c) Try not using social media lingo(FYI, BTW, FOMO etc.) and be precise while asking any question.* 
 
-### 3.4  How to be saved from online scammers?
+![published](published.png) ### 3.4  How to be saved from online scammers?
 - *(a) Don't trust the google search results blindly(especially the ads that is shown at the top of every search results)* 
 - *(b) Don't trust the Customer care numbers provided by google for a service provider at the top of its results(it might be an ad by a scammer)*
 - *(c) Most service providers(like swiggy, Yulu etc) these days have no customer care number, they provide services through their app itself.*
 - *(d) Never trust or approve any transaction requests made at your UPI without confirmation, it's irreversible.*
 
-### 3.5  what is social-engineering? 
+![published](published.png) ### 3.5  what is social-engineering? 
 -  *(a) WHAT- It's the most impactfult strategy(nothing to do with programs or servers) used by hackers to decode/guess your password based on your social activity(social media, friend circle, domain of work, etc.).*
 -  *(b) WHO- Members/Partners who are active speakers at public platforms(Seminars/Webinars) are the potential targets of this threat.*
 -  *(c) HOW- Say partner A is the speaker at ICAI, and a hacker got to know this information, what he/she can do is just send an email with an attachment(keylogger, virus, etc.) designating him/her as an ICAI member, even the most aware one of us might fall for this ploy.*
 
-### 3.6  How to be saved from Social Engineering? 
+![published](published.png) ### 3.6  How to be saved from Social Engineering? 
 -  *(a) ASK- Always ask questions when in doubt(even if you've to authenticate it from multiple sources).*
 -  *(b) Access- Never grant any additional privileges to a third party(client, colleague, etc.) without permission.*
 -  *(c) Analyze- Before answering any question to an irregular party, think of possible repercussions of your act(if in doubt, IT is always there to help you).*
 
 
-### 3.7  How to be saved from Ransomwares? 
+![published](published.png) ### 3.7  How to be saved from Ransomwares? 
 -  *(a) Do frequent data backups in multiple locations.*
 -  *(b) Don't keep vital information only on your computer.*
 -  *(c) Never access .zip attachments in your inbox from an unknown sender.*
 
-### 3.8  How can you tell if a website can securely handle your data? 
+![published](published.png) ### 3.8  How can you tell if a website can securely handle your data? 
 -  *(a) Check if a website link starts with `https` and **NOT** `http`.*
 -  *(b) `S` is key here as a website starting with `https` encrypts the data you put in the website and data you get from it.*
 -  *(c) If a website doesn't start with `https`, **DON'T** give them confidential info(card details, Aadhaar/PAN, address etc.).*
 
 
-### 3.9  How to boost your email security beyond passwords? 
+ ### ![published](published.png)3.9  How to boost your email security beyond passwords? 
 -  *(a) Check your recent activity(if you see it being accessed at some odd time, immediately inform the IT team).*
 -  *(b) Your account involvement(e.g. Avoid syncing your Guru & Jana mail to different websites, especially your browser add-ons/extensions).*
 -  *(c) Consider Enabling the 2-step verification or use the Authenticator app to login(as recommended by IT team).*
