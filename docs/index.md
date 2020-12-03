@@ -87,7 +87,7 @@
 
 -  *Always check the last updated date of the app at play store before installing and customize it whenever you install them(e.g. Enabling 2-FA, Turn-off auto save multimedia files, hide e-mail/mobile numbers, etc.)*
 
--  *Never download an image/video from social media unless you're sure of the source.*
+-  *Never download an image/video from social media unless you're sure of the source or click on any random links that you might have received(online/text message).*
 
 
 
