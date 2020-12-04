@@ -1,11 +1,12 @@
 # Sharda_Saves
 
 
-<hr>
+
 ❌ - **Rough works**
 
 ✔️ - **Published**
 <hr>
+
 ## 1. `Precautions`
 
  ### ✔️1.1 How not to set your Password 
