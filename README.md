@@ -162,7 +162,7 @@ iPhone: Settings>Chats>Save to Camera Roll(turn-off),  Android: Settings>Chats>M
 
 
 
-###❌Rough Works for Cookies
+❌**Rough Works for Cookies**
 <hr>
 - *A Cookie is stored at your local system: your browser sends a request to the server, but the server sends back two things: the page you asked for and a little text file(called a cookie) that your browser then saves.*
 
