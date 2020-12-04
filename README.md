@@ -2,7 +2,7 @@
 
 ## 1. `Precautions`
 
- ### ![published](published.png)1.1 How not to set your Password 
+ ### ✔️1.1 How not to set your Password 
 
 - *(a) Never set your password as the name of any of you family members or loved ones.*
 
@@ -16,7 +16,7 @@
 
 - *(f) Never use Cuss words as your password*
 
- ### ![published](published.png)1.2 How to minimize the chances of getting compromised
+ ### ✔️1.2 How to minimize the chances of getting compromised
 
 - *(a) Update your devices regularly(OS, Softwares, Firewall etc)*
 
@@ -30,7 +30,7 @@
 
 - *(f) Be suspicious of any of the emails that you might receive from outside the organization & **NEVER** open attachments(unless you're really sure)*
 
- ### ![published](published.png)1.3 What is a strong password
+ ### ✔️1.3 What is a strong password
 
 - *(a) LEVEL 1: Novice- Less than 10 characters long password*
 
@@ -40,7 +40,7 @@
 
 - *(d) LEVEL 4: Zen- More than 22 characters contributed by four irregularly used words in our daily conversations(adding a special character between words is a plus).*
 
- ### ![published](published.png)1.4 How to remember your long password(Part-1)
+ ### ✔️1.4 How to remember your long password(Part-1)
 
 - *Step 1: Break Long Passwords into three parts:- Master(M), Unique(U), Number(N)*
 - *Step 2: Master- Constant throughout all websites; it would take two words(e.g `griffithCones`)*
@@ -48,7 +48,7 @@
 - *Step 4: Number- Come up with a number based on a fixed formula decided by special character used in the Step 3.(e.g- `!` means addition to me, so my Gmail value would be `g+m+a+i+l =42`)*
 - *Step 5: My Gmail password maybe "griffithConesgm!rubik42"(you may change the order of M,U,N)*
 
- ### ![published](published.png)1.5 How to use your browser securely
+ ### ✔️1.5 How to use your browser securely
 
 - *(a) Avoid installing any browser extensions(consult IT team if you must).*
 
@@ -60,7 +60,7 @@
 
 - *(e) Always update your browser whenever there's is an update.*
 
- ### ![published](published.png)1.6 How Not to choose Keywords for your password
+ ### ✔️1.6 How Not to choose Keywords for your password
 
 -  *Never Consider your loved one's names, birthdays or any significant dates in your password.*
 
@@ -98,7 +98,7 @@ iPhone: Settings>Chats>Save to Camera Roll(turn-off),  Android: Settings>Chats>M
 
 ## 2. `Cure`
 
- ### ![published](published.png)2.1 How to help shut down scammers
+ ### ✔️2.1 How to help shut down scammers
 - *(a) If you receive any phishing link which might look like- https://facebo0k.tinylink.com/marketplace/321234, https://amaz0n.in/reset-password among the many, these are scam mails*
   
 - *(b) Go to this google's report phishing page: https://safebrowsing.google.com/safebrowsing/report_phish/?hl=en and enter the URL and click `submit report`*
