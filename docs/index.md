@@ -275,7 +275,6 @@ The web is built around the freedom of design . it's one of the most fundamental
 -  *LIMITED TIME DISCOUNT: It says **click here** now the discount is only available for today.*
 
 ### 3.13  Links you must not click on(unless you're sure).
-**Three common tricks you may come across**
 
 -  *Any short link that you have no idea where they lead.*
 -  *Any e-mail or attachment link that you never requested or were expecting.*
