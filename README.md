@@ -276,3 +276,33 @@ The web is built around the freedom of design . it's one of the most fundamental
 -  *(a) Check your recent activity(if you see it being accessed at some odd time, immediately inform the IT team).*
 -  *(b) Your account involvement(e.g. Avoid syncing your Guru & Jana mail to different websites, especially your browser add-ons/extensions).*
 -  *(c) Consider Enabling the 2-step verification or use the Authenticator app to login(as recommended by IT team).*
+
+### 3.10  SPAM: Lesser it is, safer you are 
+-  *(a) Use filters and mark e-mails as spam to help your email provider(google/microsoft/iCloud etc.) block it more effectively.*
+-  *(b) Disable the automatic downloading of HTML graphics in your mails.*
+-  *(c) Never click on links or download open attachments in spam mails*
+
+### 3.11  Social Check-ins: Things you should not do.
+-  *Don't check-in at airport/railway stations when you're leaving for vacation.*
+-  *Don't check-in on Instagram/Facebook when you take those holiday pictures.*
+-  *REASON: The more data is about you online, the more cyber criminals can gather and use to compromise you. In some cases, this info can be used to break into your house while you're away.*
+
+### 3.12  How is social scams evolving into cyber scams.
+**Three common tricks you may come across**
+
+-  *Shocking or fake celebrity news, cyver criminals would use anything to draw your attention.*
+-  *FREE stuffs(Mobile phones, Free trips, Free beauty products etc.). it always works.*
+-  *LIMITED TIME DISCOUNT: It says **click here** now the discount is only available for today.*
+
+### 3.13  Links you must not click on(unless you're sure).
+**Three common tricks you may come across**
+
+-  *Any short link that you have no idea where they lead.*
+-  *Any e-mail or attachment link that you never requested or were expecting.*
+-  *Any shady Facebook apps(especially those who claim to let you see who visited your profile)*
+
+### 3.14  Stop measuring yourself based on cyber habits of others.
+
+-  *So what if they don't use two-factor Authentication?. Don't compare, you use it.*
+-  *So what if they don't care about basic cyber security etiquettes(checking e-mail before opening/clicking on links or attachments, only accessing https based websites etc.)? You do it.*
+-  *So what if they don't update all their softwares or backup their data? you do it because you know it's important.*
