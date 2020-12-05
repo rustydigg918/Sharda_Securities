@@ -141,7 +141,7 @@ iPhone: Settings>Chats>Save to Camera Roll(turn-off),  Android: Settings>Chats>M
 - *Did you know that the recent Big Basket data breach, which later was put on the dark web by hackers; out of which, about 22.5% of the passwords were decrypted within 5 hours*
 
 
-### 2.7 Cookies- What is it after all?
+### ✔️2.7 Cookies- What is it after all?
 
 - *A Cookie is stored at your local system: your browser sends a request to the server, but the server sends back two things: the page you asked for and a little text file(called a cookie) that your browser then saves.*
 
@@ -295,7 +295,6 @@ The web is built around the freedom of design . it's one of the most fundamental
 -  *LIMITED TIME DISCOUNT: It says **click here** now the discount is only available for today.*
 
 ### 3.13  Links you must not click on(unless you're sure).
-**Three common tricks you may come across**
 
 -  *Any short link that you have no idea where they lead.*
 -  *Any e-mail or attachment link that you never requested or were expecting.*
