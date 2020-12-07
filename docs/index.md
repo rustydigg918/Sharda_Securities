@@ -162,6 +162,14 @@
 - *Ease: you may as well turn the page to an audiobook.*
 
 
+### 2.10 What is the 'cookie law' (passed in European Union(EU)?
+
+- *Under the General Data Protection Regulation(GDPR) which was passed in 2018(amended from the one passed in 2016 ), it's not just "no cookies without consent" but "no tracking without consent".*
+
+- *That's the reason why you might see a lot of websites(even in India) ask for you approval to track cookies. Never allow it.*
+
+- *The potential minimum fine is 4% of company's global annual revenue(not profit) or 20 million euro whichever is higher.*
+
 ### Rough Works for cookies
 ```
 - *A Cookie is stored at your local system: your browser sends a request to the server, but the server sends back two things: the page you asked for and a little text file(called a cookie) that your browser then saves.*
