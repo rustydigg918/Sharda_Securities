@@ -156,7 +156,7 @@ iPhone: Settings>Chats>Save to Camera Roll(turn-off),  Android: Settings>Chats>M
 - *So, the cookie could contain your preferences(say you choose dark mode), browser would now send a "dark mode" preference in the cookie, every single request until the cookie is cleared from the browser even if you restart your system.*
 
 
-### 2.8 How can you block cookies ?
+### ✔️2.8 How can you block cookies ?
 
 - *Don't tick the "Remember Me" option while logging in to a website(like Facebook, Google etc.), it allows them to track you all around the web that's why these websites display precise adverts that you might be thinking.*
 
