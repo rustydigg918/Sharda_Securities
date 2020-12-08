@@ -95,6 +95,12 @@ iPhone: Settings>Chats>Save to Camera Roll(turn-off),  Android: Settings>Chats>M
 
 -  *Never download an image/video from social media unless you're sure of the source or click on any random links that you might have received(online/text message).*
 
+### 1.9 Why should you consider using Password Managers(PMs)?
+**It's always great to remember your long password(covered in 1.4) but PMs are helpful as well.**
+
+-  *(a) Ease factor: You just need to remember only one Master Password. That's it.*
+-  *(b) Security Advantage: You are forever secured from whole lot of attack types(e.g. Keylogger attacks) as PMs allow you to copy your passwords which you may use by pasting at the login time.*
+-  *(c) Popular PMs: 1Password, LastPass are some popular PMs to consider.*
 
 
 
