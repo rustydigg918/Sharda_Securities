@@ -97,6 +97,20 @@
 -  *(c) Popular PMs: 1Password, LastPass are some popular PMs to consider.*
 
 
+### 1.10 Two-Factor Authentication(2FA): Things to keep in mind.?
+
+**2FA adds an another layer to your security on top of your Passwords, but there are few things that you need to know before applying them to your accounts.**
+
+-  *(a) Cons to 2FA: Some popular examples of 2FA are OTP messages, Authenticator app etc.,Which are connected through an another device(phones generally), if your device is lost, you might be on the verge of losing your accounts' accessibility.*
+  
+-  *(b) Overcoming the Cons of 2FA: Use Multi-Factor Authentication(another layer on top of 2FA), it might be your backup mail, some personal questions etc., so that even if you lose your device, you would have an another way to access your account.*
+
+
+
+
+
+
+
 
 
 
