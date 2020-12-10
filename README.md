@@ -333,3 +333,15 @@ The web is built around the freedom of design . it's one of the most fundamental
 -  *If it's Too Good To Be True. It probably is.*
 -  *Nothing in this world is free, try to think of the possible ways they might be making money(if you're really interested in the proposal).Good old internet is always there to help you on this.*
 -  *Always check from at least three trustworthy sources: (1) Official Website, (2) Official Social Channel, check for blue tick mark (3) Legit media sources or by directly contacting the company.*
+
+
+### 3.16  How to Manage System Space for a Secure and fast PC
+
+-  *Step 1:- Visit this path: `Start  > Settings  > System  > Storage`*
+
+
+-  *Step 2:- Select Temporary files in the storage breakdown. **Note:** If you don't see Temporary files listed, select Show more categories.*
+
+-  *Step 3:- Select the items you want to delete, and then select Remove files.*
+
+**Always maintain more than 25% free space in the working drive, it minimizes the chances of a whole range of attacks(i.e Buffer Overflow Attack)**
