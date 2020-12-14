@@ -102,7 +102,7 @@ iPhone: Settings>Chats>Save to Camera Roll(turn-off),  Android: Settings>Chats>M
 -  *(b) Security Advantage: You are forever secured from whole lot of attack types(e.g. Keylogger attacks) as PMs allow you to copy your passwords which you may use by pasting at the login time.*
 -  *(c) Popular PMs: 1Password, LastPass are some popular PMs to consider.*
 
-### 1.10 Two-Factor Authentication(2FA): Things to keep in mind.?
+### 1.10 Two-Factor Authentication(2FA): Things to keep in mind?
 
 **2FA adds an another layer to your security on top of your Passwords, but there are few things that you need to know before applying them to your accounts.**
 
@@ -110,7 +110,13 @@ iPhone: Settings>Chats>Save to Camera Roll(turn-off),  Android: Settings>Chats>M
   
 -  *(b) Overcoming the Cons of 2FA: Use Multi-Factor Authentication(another layer on top of 2FA), it might be your backup mail, some personal questions etc., so that even if you lose your device, you would have an another way to access your account.*
 
+### 1.11 
 
+****
+
+-  **
+  
+-  **
 
 
 
@@ -140,7 +146,7 @@ iPhone: Settings>Chats>Save to Camera Roll(turn-off),  Android: Settings>Chats>M
 - *(c) So, deeply thank this IT policy for the greater good, so that it doesn't hurt you even if you mistakenly plug it in.*
 
  ### ✔️2.4 Auditing your digital footprint
-- *Step 1: Make a list of all your digital accounts(Facebook, Twitter, Reddit etc)*
+- *Step 1: Make a list of all your digital accounts(Facebook, Twitter, Reddit etc.)*
 - *Step 2: Set strong password for all of them(1.3 might help in this).*
 - *(c)Step 3: Delete the accounts you haven't used in the past six months.*
 
@@ -298,7 +304,7 @@ The web is built around the freedom of design . it's one of the most fundamental
 -  *(b) Your account involvement(e.g. Avoid syncing your Guru & Jana mail to different websites, especially your browser add-ons/extensions).*
 -  *(c) Consider Enabling the 2-step verification or use the Authenticator app to login(as recommended by IT team).*
 
-### 3.10  SPAM: Lesser it is, safer you are 
+### ✔️3.10  SPAM: Lesser it is, safer you are 
 -  *(a) Use filters and mark e-mails as spam to help your email provider(google/microsoft/iCloud etc.) block it more effectively.*
 -  *(b) Disable the automatic downloading of HTML graphics in your mails.*
 -  *(c) Never click on links or download open attachments in spam mails*
