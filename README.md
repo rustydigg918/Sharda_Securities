@@ -351,3 +351,48 @@ The web is built around the freedom of design . it's one of the most fundamental
 -  *Step 3:- Select the items you want to delete, and then select Remove files.*
 
 **Always maintain more than 25% free space in the working drive, it minimizes the chances of a whole range of attacks(i.e Buffer Overflow Attack)**
+
+### 3.17  How to Disable the Auto-Downloading of HTML graphics in Microsoft Outlook(Office 365)?
+
+-  *Step 1:- Click on “File” > “Options”*
+
+
+-  *Step 2:- In the “Outlook Options” window, select “Trust Center”*
+
+-  *Step 3:- Click on the “Trust Center Settings” button*
+
+-  *Step 4:- Check the boxes labeled “Don’t download pictures automatically in standard HTML messages or RSS items” and “Don’t download pictures in encrypted or signed HTML email messages.” You can make a number of exceptions to the first item if you want by checking the boxes underneath it.*
+
+
+### 3.18  How to Disable the Auto-Downloading of HTML graphics in Gmail?
+
+-  *Step 1:- Click on the gear icon in the upper right corner to access your settings*
+
+
+-  *Step 2:- In the “General” tab (the first one), scroll down to “Images”*
+
+-  *Step 3:- Select “Ask before displaying external images”*
+
+-  *Step 4:- Scroll down to the bottom of the page and click on “Save Changes”*
+
+### 3.19  How to Disable the Auto-Downloading of HTML graphics in Apple Mail?
+
+-  *Step 1:- Select “Mail” > “Preferences”*
+
+
+-  *Step 2:- Click on the “Viewing” tab*
+
+-  *Step 3:- Uncheck “Load remote content in messages”*
+
+### 3.20  How to Disable the Auto-Downloading of HTML graphics in Android / iOS Gmail?
+
+-  *Step 1:- Tap on the three lines in the upper left corner*
+
+
+-  *Step 2:- Scroll down to and select “Settings”*
+
+-  *Step 3:- Tap on the email account that you want to work with*
+
+-  *Step 4:- Scroll down to and select “Images”*
+
+-  *Step 5:- Tap on “Ask before displaying external images”*
