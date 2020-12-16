@@ -5,11 +5,11 @@
 
 
 
+```
+❌ - Rough works
 
-❌ - **Rough works**
-
-✔️ - **Published**
-<hr>
+✔️ - Published
+```
 
 ## 1. `Precautions`
 
