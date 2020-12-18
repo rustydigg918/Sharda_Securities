@@ -313,12 +313,12 @@ The web is built around the freedom of design . it's one of the most fundamental
 -  *(b) Disable the automatic downloading of HTML graphics in your mails.*
 -  *(c) Never click on links or download open attachments in spam mails*
 
-### 3.11  Social Check-ins: Things you should not do.
+### ✔️3.11  Social Check-ins: Things you should not do.
 -  *Don't check-in at airport/railway stations when you're leaving for vacation.*
 -  *Don't check-in on Instagram/Facebook when you take those holiday pictures.*
 -  *REASON: The more data is about you online, the more cyber criminals can gather and use to compromise you. In some cases, this info can be used to break into your house while you're away.*
 
-### 3.12  How is social scams evolving into cyber scams.
+### ✔️3.12  How is social scams evolving into cyber scams.
 **Three common tricks you may come across**
 
 -  *Shocking or fake celebrity news, cyver criminals would use anything to draw your attention.*
