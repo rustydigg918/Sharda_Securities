@@ -200,6 +200,36 @@ iPhone: Settings>Chats>Save to Camera Roll(turn-off),  Android: Settings>Chats>M
 
 - *The potential minimum fine is 4% of company's global annual revenue(not profit) or 20 million euro whichever is higher.*
 
+### 2.11 Safety: Think like a journalist
+
+- *Don’t trust unsupported claims..*
+
+- *Verify the information from at least 3 credible sources.*
+
+- *Maintain a critical attitude towards the information you receive.*
+- *Question the claims you find difficult to believe (and even those easy to believe).*
+
+### 2.12 Facebook: Do a security check
+
+**It’s a simple and useful tool offered by Facebook.**
+
+- *Log out of unused apps (which can compromise your data)*
+
+- *Get login alerts (so no one else gets into your account).*
+
+- *Protect your password (by making it stronger).*
+- *Start here:<ul> https://www.facebook.com/help/799880743466869</ul>*
+
+### 2.13 Myth Busters : I don’t have important information or sensitive data on my system.
+
+**Try asking these questions to yourself**
+
+- *Have you not saved any passwords in your browser?*
+- *Do you have no browser history?.*
+- *Do you never send emails with documents and other information in them?*
+
+**Alone, these data might not be a threat, but assembling information about you from other sources  like your public information from your social media profile, stuff you’ve posted on forums, your email address, etc. would gives them a big picture of your online habits, which might be used to steal your online identity and/or use it against you.**
+
 ❌**Rough Works for Cookies**
 <hr>
 - *A Cookie is stored at your local system: your browser sends a request to the server, but the server sends back two things: the page you asked for and a little text file(called a cookie) that your browser then saves.*
@@ -325,7 +355,7 @@ The web is built around the freedom of design . it's one of the most fundamental
 -  *FREE stuffs(Mobile phones, Free trips, Free beauty products etc.). it always works.*
 -  *LIMITED TIME DISCOUNT: It says **click here** now the discount is only available for today.*
 
-### 3.13  Links you must not click on(unless you're sure).
+### ✔️3.13  Links you must not click on(unless you're sure).
 
 -  *Any short link that you have no idea where they lead.*
 -  *Any e-mail or attachment link that you never requested or were expecting.*
@@ -400,3 +430,75 @@ The web is built around the freedom of design . it's one of the most fundamental
 -  *Step 4:- Scroll down to and select “Images”*
 
 -  *Step 5:- Tap on “Ask before displaying external images”*
+
+
+### 3.21  Geotags: Remove past them from your social accounts
+
+-  *If you didn't notice, you already have tons of check ins from your home, you also have the option to delete previous history location.*
+
+
+-  *In Facebook you’ll have to do that manually for all the photos you uploaded and turn off Location for future posts.*
+
+-  *In Instagram, you can Remove Geotag for all your uploaded pics.*
+
+### 3.22  E-mails: Create multiple email accounts
+
+**Create completely separate email accounts with different purposes.**
+
+-  *One email account to subscribe to newsletters and shopping deals*
+
+
+-  *Another one for online accounts, such as your Facebook, Twitter, Ola etc.*
+
+-  *Different email accounts for work and personal conversations, Don't sync your priviledged Guru & Jana account: Keep it exclusively for work purposes.*
+
+### 3.23  Unsupported Software: The problem with with them
+
+-  *Ending support for a software means that the software had reached end-of-life, and that the software maker stops sustaining it through sales, marketing and especially through support.*
+
+
+-  *Ending support for a software means that the software maker will no longer create and implement security, performance or feature updates to that application..*
+
+-  *e.g.- Microsoft ended support for Windows XP in July 2014 and Apple discontinued support for QuickTime for Windows in April 2016. As a consequence, those who continue to use unsupported software expose their system to a huge range of vulnerabilities.*
+
+### 3.24  Ransomware: Should you pay in case of a ransomware attack?
+
+-  *Cyber attackers are not exactly trustworthy individuals, so there’s no guarantee that you’ll get your decryption key and your data back*
+
+
+-  *By paying the ransom, you’re fueling the malware economy, which is already thriving and affecting all of us through the damages it creates*
+
+-  *Every paid ransom is feeding another similar attack on other people, and the next victim could be someone your love.*
+
+### 3.24  Ransomware: Should you pay in case of a ransomware attack?
+
+-  *Cyber attackers are not exactly trustworthy individuals, so there’s no guarantee that you’ll get your decryption key and your data back*
+
+
+-  *By paying the ransom, you’re fueling the malware economy, which is already thriving and affecting all of us through the damages it creates*
+
+-  *Every paid ransom is feeding another similar attack on other people, and the next victim could be someone your love.*
+
+### 3.25  Smartphone: Activate remote device locator for your smartphone
+
+-  *In case that your smartphone is ever lost or stolen, the easiest way to remotely locate it is by installing a dedicated app.*
+
+
+-  *For Apple there’s the tracking solution called “Find my iPhone”*
+
+-  *Microsoft has “Find my phone”*
+-  *Android has “Android Device Manager”.*
+
+**Make sure that the option to track its location is always turned on.**
+
+### 3.26  Smartphone: Activate remote device locator for your smartphone
+
+-  *In case that your smartphone is ever lost or stolen, the easiest way to remotely locate it is by installing a dedicated app.*
+
+
+-  *For Apple there’s the tracking solution called “Find my iPhone”*
+
+-  *Microsoft has “Find my phone”*
+-  *Android has “Android Device Manager”.*
+
+
