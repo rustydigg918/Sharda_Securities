@@ -361,14 +361,14 @@ The web is built around the freedom of design . it's one of the most fundamental
 -  *Any e-mail or attachment link that you never requested or were expecting.*
 -  *Any shady Facebook apps(especially those who claim to let you see who visited your profile)*
 
-### 3.14  Stop measuring yourself based on cyber habits of others.
+### ✔️3.14  Stop measuring yourself based on cyber habits of others.
 
 -  *So what if they don't use two-factor Authentication?. Don't compare, you use it.*
 -  *So what if they don't care about basic cyber security etiquettes(checking e-mail before opening/clicking on links or attachments, only accessing https based websites etc.)? You do it.*
 -  *So what if they don't update all their softwares or backup their data? you do it because you know it's important.*
 
 
-### 3.15  Three questions to rule out all the chances of Scams.
+### ✔️3.15  Three questions to rule out all the chances of Scams.
 
 -  *If it's Too Good To Be True. It probably is.*
 -  *Nothing in this world is free, try to think of the possible ways they might be making money(if you're really interested in the proposal).Good old internet is always there to help you on this.*
