@@ -475,3 +475,18 @@ The web is built around the freedom of design . it's one of the most fundamental
 
 -  *Microsoft has “Find my phone”*
 -  *Android has “Android Device Manager”.*
+
+
+## 4. `Specials`
+
+
+### 4.1  SMB Attacks: The Recent Monster
+
+-  *WHAT - SMB attacks are targeted on Windows OS by executing codes remotely, remote code means a hacker can be from any parts of the world. All they need is to gain a foothold in a system from the vulnerabilities and exploit that by running commands on the system.*
+
+
+-  *WHY - There has been a huge positive surge in this type of attack from the Chinese hackers(on some of the important Indian Institutions like Banks, Hospitals,Food Production industry etc.) which is all known as "Gh0st" [LINK]("https://www.seqrite.com/blog/rat-used-by-chinese-cyberspies-infiltrating-indian-businesses/")*
+
+-  *The best way to protect ourselves from these types(WannaCry , Gh0stRAT etc.) of attacks is to patch your system.If your Windows system is Windows 10 or later, then the update patches are already built in.*
+
+**One of the major reasons why these govt. institutions are being targeted is simply due to the fact that they are still stuck with Windows 7 or earlier and these attacks won't stop until the upgradation issues are dealt with.**
