@@ -230,6 +230,14 @@ iPhone: Settings>Chats>Save to Camera Roll(turn-off),  Android: Settings>Chats>M
 
 **Alone, these data might not be a threat, but assembling information about you from other sources  like your public information from your social media profile, stuff you’ve posted on forums, your email address, etc. would gives them a big picture of your online habits, which might be used to steal your online identity and/or use it against you.**
 
+### 2.14 Online Reviews: Good or Evil
+
+- *Online reviews(for a product/service)at Google, Ola, Amazon etc. can be used by hackers to social-engineer the target. A review alone might not seem harmful but a collection them has a huge value and it is good enough to crack the thinking pattern of a person.*
+  
+- *You as a person can easily be judged and henceforth manipulated by your online reviews, which is already being used by certain powerful institutions(Politics, Corporations,Cyber Criminals) to enforce certain behavioral alterations by targeting your sub-conscious minds in order to seize your free-will.*
+
+- *So Next time when you're about to write a review online, DON'T  just consider yourself  as an exclusive host(who gives the review) but you might easily be used as a product as well.*
+
 ❌**Rough Works for Cookies**
 <hr>
 - *A Cookie is stored at your local system: your browser sends a request to the server, but the server sends back two things: the page you asked for and a little text file(called a cookie) that your browser then saves.*
