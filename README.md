@@ -230,7 +230,7 @@ iPhone: Settings>Chats>Save to Camera Roll(turn-off),  Android: Settings>Chats>M
 
 **Alone, these data might not be a threat, but assembling information about you from other sources  like your public information from your social media profile, stuff you’ve posted on forums, your email address, etc. would gives them a big picture of your online habits, which might be used to steal your online identity and/or use it against you.**
 
-### ✔️2.14 Online Reviews: Good or Evil
+### 2.14 Online Reviews: Good or Evil
 
 - *Online reviews(for a product/service)at Google, Ola, Amazon etc. can be used by hackers to social-engineer the target. A review alone might not seem harmful but a collection them has a huge value and it is good enough to crack the thinking pattern of a person.*
   
