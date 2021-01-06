@@ -238,6 +238,14 @@ iPhone: Settings>Chats>Save to Camera Roll(turn-off),  Android: Settings>Chats>M
 
 - *So Next time when you're about to write a review online, DON'T  just consider yourself  as an exclusive host(who gives the review) but you might easily be used as a product as well.*
 
+### 2.15 LINKEDIN: Mecca of hackers
+
+- ***WHY**: It is quite easy to cluster the target audience at LinkedIn as everyone provides their professional designation, their place of origin and of course those posts, which is nothing short of a gold mine for a hacker.*
+  
+- ***HOW**: The pursuit to attracting a potential employer/employee forces people to put as much information as they can in order to paint themselves unique(which helps in estimating the salary which then leads to their lifestyle that results in the process of Social-Engineering) and that's how LinkedIn became a hacker's paradise.*
+
+- *Being mindful and aware that you have these data exposed which can be misused is the only way to minimize this issue, coz even LinkedIn can't stop scrapping of your data from its website.*
+
 ❌**Rough Works for Cookies**
 <hr>
 - *A Cookie is stored at your local system: your browser sends a request to the server, but the server sends back two things: the page you asked for and a little text file(called a cookie) that your browser then saves.*
