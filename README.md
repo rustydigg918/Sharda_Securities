@@ -246,6 +246,14 @@ iPhone: Settings>Chats>Save to Camera Roll(turn-off),  Android: Settings>Chats>M
 
 - *Being mindful and aware that you have these data exposed which can be misused is the only way to minimize this issue, coz even LinkedIn can't stop scrapping of your data from its website.*
 
+### 2.16 Justpay data breach: Things to ponder on
+
+- *Justpay had a huge data breach where more than 3.5 Crore records were compromised, although the officials claim that the leaked data were masked card data & fingerprint(which is non-sensitive info) which is obviously an official statement*
+  
+- *Try not adding your card details with any online portals despite the fact that it provides a single click payment which is fast and easy, but the downside is just too costly.*
+
+- *Try to provide least information to any of the online portals, coz they just aren't capable enough to protect it.*
+
 ❌**Rough Works for Cookies**
 <hr>
 - *A Cookie is stored at your local system: your browser sends a request to the server, but the server sends back two things: the page you asked for and a little text file(called a cookie) that your browser then saves.*
