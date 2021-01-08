@@ -410,7 +410,7 @@ The web is built around the freedom of design . it's one of the most fundamental
 
 **Always maintain more than 25% free space in the working drive, it minimizes the chances of a whole range of attacks(i.e Buffer Overflow Attack)**
 
-### 3.17  How to Disable the Auto-Downloading of HTML graphics in Microsoft Outlook(Office 365)?
+### ✔️3.17  How to Disable the Auto-Downloading of HTML graphics in Microsoft Outlook(Office 365)?
 
 -  *Step 1:- Click on “File” > “Options”*
 
@@ -422,7 +422,7 @@ The web is built around the freedom of design . it's one of the most fundamental
 -  *Step 4:- Check the boxes labeled “Don’t download pictures automatically in standard HTML messages or RSS items” and “Don’t download pictures in encrypted or signed HTML email messages.” You can make a number of exceptions to the first item if you want by checking the boxes underneath it.*
 
 
-### 3.18  How to Disable the Auto-Downloading of HTML graphics in Gmail?
+### ✔️3.18  How to Disable the Auto-Downloading of HTML graphics in Gmail?
 
 -  *Step 1:- Click on the gear icon in the upper right corner to access your settings*
 
